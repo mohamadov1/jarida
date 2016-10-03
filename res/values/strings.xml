@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources translatable="false">
+    
+    <!--  no need to translate -->
+	<string name="app_name">أندرويد العرب</string>
+    <string name="app_version">1.6.1</string>
+    <string name="blogurl">http://www.mchebli.com/</string>
+    <string name="api">api</string>
+    <string name="scheme">{SCHEME}</string>
+    <string name="pkg">com.jaridaapp</string>
+    <string name="playurl">market://details?id=com.jaridaapp</string>
+    <string name="gcm_senderId">192772217380</string>
+    <string name="include">comment_count,author,url,title,type,date,thumbnail,comment_status</string>
+    
+    <!-- The options to enable / disable functions 69206823889 -->
+    <bool name="admob">false</bool>
+    <bool name="showTimeAgo">true</bool>
+    <bool name="showChangelog">true</bool>
+    <bool name="showImageFragment">true</bool>
+    
+    <!-- Normal Banner -->
+    <string name="ad_unit_1">ca-app-pub-3890004937223547/7108242867</string>
+    <!-- Interstitial Ad -->
+    <string name="ad_unit_2">ca-app-pub-3890004937223547/9084503668</string>
+     
+</resources>

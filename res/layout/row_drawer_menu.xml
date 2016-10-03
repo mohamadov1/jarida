@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_toRightOf="@+id/list_iv"
+    android:background="@drawable/bg_cards"
+    android:drawableLeft="@drawable/sliding_menu_item_arrow_red"
+    android:fontFamily="Georgia"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:text="جميع الأخبار"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/black" />
+

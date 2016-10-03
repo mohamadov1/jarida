@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources translatable="false">
+    <string name="dateformat">d. M Y, H:i</string>
+    
+	  <!-- other strings -->
+    <string name="version">Version</string>
+    <string name="wait">انتظر قليلا ...</string>
+    <string name="random">....تحديث</string>
+    <string name="article">مقالة </string>
+    <string name="articles">المقالات</string>
+    <string name="tags">تسمية</string>
+    <string name="categories">تصنيفات</string>
+    <string name="comments">تعليقات</string>
+    <string name="writecomment">كتابة تعليق</string>
+    <string name="no_search_result">اسف لا توجد نتائج لهذه الكلمة </string>
+    <string name="no_image">لا صورة</string>
+    <string name="no_comment">ليس هناك اي تعليق لحد الان</string>
+    <string name="coms_closed">التعليقات مقفلة !</string>
+    <string name="search_result_1">البحث الخاص بك </string>
+    <string name="search_result_2"> النتائج</string>
+    <string name="do_search">بحث ...</string>
+    <string name="drawer_open">القائمة مفتوحة</string>
+    <string name="drawer_close">القائمة مغلقة</string>
+    
+    
+    <!-- Text strings -->
+    <string name="dialog_inernet_title">No Internet connection!</string>
+    <string name="dialog_internet_content">Can\'t connect to the Internet. Please check connection!</string>
+    <string name="dialog_clear_content">This will delete your search history. Can\'t be undone!</string>
+    <string name="msg_last_page">Last Page, no more Posts!</string>
+    <string name="msg_fav_added">Post added to Bookmarks!</string>
+    <string name="msg_fav_removed">Post removed from Bookmarks!</string>
+    <string name="msg_no_bookmarks">No Bookmarks yet,\nGo and add you first Bookmark!</string>
+    <string name="msg_new_post">New Post: </string>
+    <string name="msg_post_update"> was updated</string>
+    
+    <!-- Buttons labels -->
+    <string name="btn_close">Close</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_repeat">try again!</string>
+    <string name="btn_no">No</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_send">send it!</string>
+    <string name="btn_more">المزيد ...</string>
+
+    <!-- Activity Names and ActionBar titles -->
+    <string name="title_recent_posts"> </string>
+    <string name="title_category_list"> </string>
+    <string name="title_category"> </string>
+    <string name="title_search">  </string>
+    <string name="title_tag">  </string>
+    <string name="title_bookmark_posts"> </string>
+    <string name="title_gcm_alert"> </string>
+    <string name="title_notificationbar"> </string>
+    <string name="title_images">الصورة</string>
+    <string name="title_settings"></string>
+    
+    
+    <!-- Sliding Menu related Strings -->
+    <string-array name="menu">
+        <item>جميع الاخبار</item>
+        <item>التصنيفات</item>
+        <item>صوت و صورة</item>
+        <item>هواتف ذكية</item>
+        <item>تطبيقات</item>
+        <item>تطبيقات اسلامية</item>
+        <item>اخبار التطبيقات</item>
+        <item>جديد الاندرويد</item>
+        <item>المفضلة</item>
+        <item>اعدادات</item>
+       
+    </string-array>
+    
+    <!-- Tabs Names -->
+    <string-array name="tabs">
+        <item>منشور </item>
+        <item>صورة</item>
+        <item>تعليقات</item>
+        <item>تعليق جديد</item>
+    </string-array>
+    <!-- Tabs without images -->
+    <string-array name="tabs2">
+        <item>تقييم</item>
+        <item>تعليقات</item>
+        <item>تعليق جديد</item>
+    </string-array>
+    
+    
+    <!-- Settings related Strings -->
+    <string name="setting_title_start">اعدادات</string>
+    <string name="setting_title_general">عامة</string>
+    <string name="setting_title_notification">اشعارات </string>
+    <string name="setting_title_rate_me">قيم التطبيق!</string>
+    <string name="setting_title_about">حول</string>
+    <string name="setting_title_links">روابط</string>
+    <string name="setting_label_update">تحديث</string>
+    <string name="setting_label_autoimg">تحميل تلقائي لصور</string>
+    <string name="setting_label_shake">Shake to load random Post</string>
+    <string name="setting_label_search_history">حذف تاريخ البحث</string>
+    <string name="setting_label_changelog">Changelog</string>
+    <string name="setting_label_appversion">نسخة التطبيق</string>
+    <string name="setting_label_osl">تراخيص مفتوحة المصدر</string>
+    <string name="setting_label_vibrate">الهزاز</string>
+    <string name="setting_label_ringtone">نغمة</string>
+    <string name="setting_label_notifications">الاشعارات</string>
+    <string name="setting_sum_silent">صامت</string>
+    <string name="setting_sum_autoimg">Download media (images) when using mobile daat connection</string>
+    <string name="setting_sum_shake">Activate to load random post when shaking your device</string>
+    
+     <!-- Action related Strings -->
+    <string name="action_settings">إعدادات</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="action_share">أنشرها!</string>
+    <string name="action_search">البحث عن</string>
+    <string name="action_view_online">عرض على الموقع</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_unbookmark">Unbookmark</string>
+     <string name="action_go_back">back to post</string>
+    
+    <!-- Comment Page related -->
+    <string name="comName">اسمك</string>
+    <string name="comContent">تعليقك</string>
+    <string name="comEmail">الامايل الخاص بك</string>
+    <string name="comSended">تم ارسال تعليقك بنجاح</string>
+    <string name="comSendPending">Your Comment was sent, but needs moderation</string>
+    <string name="comNameError">اسم غير صالح</string>
+    <string name="comMailError">رجاء قم بإدخال بريد الكتروني صحيح</string>
+    <string name="comContentError">تعليق قصير جدا</string>
+    <string name="comClosedComment">المنشور لايتوفر على امكانية التعليق.</string>
+    <string name="comFieldError">يرجى ملء جميع الحقول   الاسم، البريد الإلكتروني، والمحتوى</string>
+   
+          
+    
+</resources>
